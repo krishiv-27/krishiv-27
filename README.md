@@ -1,3 +1,10 @@
+<h1>A bit about me</h1>
+
+<h3>Hi! My name is Krishiv, and I’m an app developer with a passion for creating innovative and user-friendly applications. I love turning ideas into reality through code and enjoy solving complex problems.</h3>
+
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishiv-m-6411ba339) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishivmadan27@gmail.com) 
